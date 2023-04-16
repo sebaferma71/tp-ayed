@@ -1,4 +1,4 @@
-# Trabajo practico de Algoritmos y Estructuras de Datos
+# Trabajo practico de Algoritmos y Estructuras de Datos con Pascal
 Ante la actual situación internacional del coronavirus, se ha considerado oportuno diseñar e 
 implementar un sistema de “enfermedades epidemiológicas” a nivel nacional.
 
